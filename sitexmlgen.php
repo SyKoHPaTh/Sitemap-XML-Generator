@@ -1,4 +1,7 @@
 <?php
+/*
+  Just testing
+*/
 /* ---- Information ----
 
 	Name: sitexmlgen.php  "sitemap.xml Generator"
